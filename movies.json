@@ -30,10 +30,10 @@
     "thumb": "https://bbk100.xyz/media/cache/strip/202512/movie/ca860b449b7cc5eb5a0e589f35a48fa2.webp"
         },
   {
-    "title": "ชื่อเรื่อง",
-    "genre": "ภูมิภาค",
-    "url": "https://ezslot-video.s3.ap-southeast-1.amazonaws.com/intro/1920x1080p.m3u8",
-    "thumb": "ปกหนัง"
+    "title": "The Running Man (2025) เดอะ รันนิ่ง แมน",
+    "genre": "หนังฝรั่ง",
+    "url": "https://ezslot-video.s3.ap-southeast-1.amazonaws.com/intro/entry_web-ezmovie2.m3u8?v=1",
+    "thumb": "https://bbk100.xyz/media/cache/strip/202512/movie/a99cd460af4c545ba3f672762d232d0d.webp"
             },
   {
     "title": "The Ride (2025) ซิ่งฝ่านรก",
@@ -46,8 +46,15 @@
     "genre": "หนังเอเชีย",
     "url": "https://vod1.stream25.com/Bleeding-Tiger-Conflict-Begins-2025-sub.mp4.m3u8",
     "thumb": "https://bbk100.xyz/media/cache/strip/202511/movie/279fe72e77a6fcc55eb6c859ff278ee0.webp"
+      },
+  {
+    "title": "Black Phone 2 (2025) สายหลอน ซ่อนวิญญาณ 2",
+    "genre": "หนังฝรั่ง",
+    "url": "https://ezslot-video.s3.ap-southeast-1.amazonaws.com/intro/entry_web-ezmovie2.m3u8?v=1",
+    "thumb": "https://bbk100.xyz/media/cache/strip/202512/movie/bf337c9863dae5153c453d572372be02.webp"
   }
 ]
+
 
 
 
